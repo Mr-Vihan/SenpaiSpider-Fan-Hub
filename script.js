@@ -14,9 +14,9 @@ const fanPages = [
     site: "#"
   },
   {
-    name: "_.not._.senpai._",
+    name: "_.not._senpai._",
     desc: "🕷️This page is for only senpaispider | 🕸️senpai followed on 8/7/2024",
-    insta: "https://instagram.com/_.not._.senpai._/",
+    insta: "https://instagram.com/_.not._senpai._/",
     yt: "https://www.youtube.com/@not._.senpai_fr",
     site: "#"
   },
@@ -108,3 +108,4 @@ let ytHTML = fan.yt
 
   grid.appendChild(card);
 });
+
