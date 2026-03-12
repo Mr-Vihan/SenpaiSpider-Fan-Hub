@@ -53,7 +53,7 @@ const fanPages = [
     desc: "ONLY FOR SENPAISPIDER 🫶🏻❤️🔥 | ONLY FOR MAKDI GANG 🕸️🕷️",
     insta: "https://www.instagram.com/senpai_fanpg/",
     yt: "",
-    site: "https://google.com"
+    site: "#"
   },
   {
     name: "_.chaos._.spidey._",
@@ -108,5 +108,6 @@ let ytHTML = fan.yt
 
   grid.appendChild(card);
 });
+
 
 
