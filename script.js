@@ -34,13 +34,6 @@ const fanPages = [
     yt: "https://www.youtube.com/@sanpai.ft_instagram",
     site: "#"
   },
-    {
-    name: "_not_senpaispidey",
-    desc: "📈 Road to 500 followers | ✨ Not just a fan, it's an emotion.",
-    insta: "https://www.instagram.com/_not_senpaispidey/",
-    yt: "https://www.youtube.com/@notysenpai",
-    site: "#"
-  },
    {
     name: "not_senpaispider",
     desc: "Hindu🚩Maratha✨ | Just senpai spider fanboy💫 | Got followed by him- 25/2/25",
@@ -49,11 +42,18 @@ const fanPages = [
     site: "#"
   },
   {
+    name: "critical_spider_editz",
+    desc: "@senpaispideryt If you seeing this I am ur big fan | About me: An editor of senpai spider",
+    insta: "https://www.instagram.com/critical_spider_editz",
+    yt: "",
+    site: "#"
+  },
+  {
     name: "senpai_fanpg",
     desc: "ONLY FOR SENPAISPIDER 🫶🏻❤️🔥 | ONLY FOR MAKDI GANG 🕸️🕷️",
     insta: "https://www.instagram.com/senpai_fanpg/",
     yt: "",
-    site: "#"
+    site: "https://google.com"
   },
   {
     name: "_.chaos._.spidey._",
@@ -108,4 +108,5 @@ let ytHTML = fan.yt
 
   grid.appendChild(card);
 });
+
 
