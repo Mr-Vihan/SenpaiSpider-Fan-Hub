@@ -63,9 +63,9 @@ const fanPages = [
     site: "#"
   },
   {
-    name: "senpai_makda_op",
-    desc: "Makdi gang member 🕸️🕷️ | FP OF Senpaispider | DM me for paid editing💲",
-    insta: "https://www.instagram.com/senpai_makda_op/",
+    name: "yes._.senpai._",
+    desc: "🎬 Editor 🕷️ SenpaiSpider Fanpage1K+ Community | Goal: Followed by Senpai 👑",
+    insta: "https://www.instagram.com/yes._.senpai._/",
     yt: "",
     site: "#"
   }
